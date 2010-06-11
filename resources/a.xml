@@ -1,0 +1,8 @@
+<a>
+    <b>foo</b>
+    <c>
+        <d>bar</d>
+        <d>baz</d>
+        <d>quux</d>
+    </c>
+</a>

@@ -1,0 +1,16 @@
+{
+	"name": "XML Tools",
+	"author": "Dean Landolt <dean@deanlandolt.com>",
+	"dependencies": [],
+	"keywords": [
+		"xml",
+		"xpath",
+		"xslt",
+		"xsd",
+		"schematron",
+		"xquery"
+	],
+	"githubName": "xml-tools",
+	"type": "zip",
+	"location": "http://github.com/deanlandolt/xml-tools/zipball/master"
+}
